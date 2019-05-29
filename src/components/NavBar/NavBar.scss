@@ -1,0 +1,58 @@
+.navBar{
+   
+    width: 100%;
+    height: 130px;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: stretch;
+    align-items: center;
+
+
+
+
+    .logo{
+        order: 0;
+        flex: 0 1 auto;
+        align-self: auto;
+        margin-left: 100px;
+    }
+    .links{
+        order: 0;
+        flex: 0 1 auto;
+        align-self: auto;
+
+        width: 260px;
+        margin-right:100px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-content: stretch;
+        align-items: center;
+        font-weight: 300;
+
+        .linkaraoke{
+            order: 0;
+            flex: 0 1 auto;
+            align-self: auto;
+
+            color: white;
+           
+        }
+
+        .linkfestival{
+            order: 0;
+            flex: 0 1 auto;
+            align-self: auto;
+            color: white;
+        }
+
+
+
+    }
+
+    
+}
