@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Montealegre_Sti/static/css/main.fb096fc7.chunk.css",
+    "main.js": "/Montealegre_Sti/static/js/main.cbddb96b.chunk.js",
+    "main.js.map": "/Montealegre_Sti/static/js/main.cbddb96b.chunk.js.map",
+    "runtime~main.js": "/Montealegre_Sti/static/js/runtime~main.13228d2a.js",
+    "runtime~main.js.map": "/Montealegre_Sti/static/js/runtime~main.13228d2a.js.map",
+    "static/css/2.d81b03a1.chunk.css": "/Montealegre_Sti/static/css/2.d81b03a1.chunk.css",
+    "static/js/2.805d2706.chunk.js": "/Montealegre_Sti/static/js/2.805d2706.chunk.js",
+    "static/js/2.805d2706.chunk.js.map": "/Montealegre_Sti/static/js/2.805d2706.chunk.js.map",
+    "index.html": "/Montealegre_Sti/index.html",
+    "precache-manifest.62af92d7aeaef9d49cc5a526828f102c.js": "/Montealegre_Sti/precache-manifest.62af92d7aeaef9d49cc5a526828f102c.js",
+    "service-worker.js": "/Montealegre_Sti/service-worker.js",
+    "static/css/2.d81b03a1.chunk.css.map": "/Montealegre_Sti/static/css/2.d81b03a1.chunk.css.map",
+    "static/css/main.fb096fc7.chunk.css.map": "/Montealegre_Sti/static/css/main.fb096fc7.chunk.css.map",
+    "static/media/Banner.css": "/Montealegre_Sti/static/media/banner.9abb3245.png",
+    "static/media/semantic.min.css": "/Montealegre_Sti/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/img.png": "/Montealegre_Sti/static/media/img.8f8c2f92.png",
+    "static/media/logo.png": "/Montealegre_Sti/static/media/logo.8261c6c0.png",
+    "static/media/lunch-box.png": "/Montealegre_Sti/static/media/lunch-box.325a7bb5.png",
+    "static/media/microphone.png": "/Montealegre_Sti/static/media/microphone.f549a3e6.png",
+    "static/media/wine.png": "/Montealegre_Sti/static/media/wine.37173d9b.png"
+  }
+}
