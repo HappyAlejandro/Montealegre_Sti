@@ -1,0 +1,273 @@
+
+.todo{
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: center;
+    align-items: center;
+
+    
+
+    .guestList{
+        order: 0;
+        flex: 0 1 auto;
+        align-self: auto;
+
+        margin: 40px;
+    }
+
+    .list{
+      
+        order: 0;
+        flex: 0 1 auto;
+        align-self: auto;
+
+        align-items: center;
+        width: 600px;
+        height: 400px;
+        overflow-y: scroll;
+        overflow-x: hidden;
+    
+        .ui cards{
+        }
+              
+}
+
+.todo2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-between;
+    align-items: flex-start;
+    
+ .person_info{
+    order: 0;
+    flex: 0 1 auto;
+    align-self: auto;
+
+    align-content: center;
+    width: 800px;
+    
+    
+    
+    .details_info{
+        width: 100px;
+        
+        .header{
+    
+        }
+    }  
+    
+    .final_info{
+        width: 800px;
+
+    
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        align-content: flex-start;
+        align-items: flex-start;
+        
+     
+        .generos{
+            width: 250px;
+            margin :20px;
+            order: 0;
+            flex: 0 1 auto;
+            align-self: auto;
+            height: 300px;
+            overflow-y: scroll;
+            .item{
+    
+                display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        align-content: flex-start;
+        align-items: flex-start;
+        margin-top: 10px;
+        .ui avatar image{
+            order: 0;
+            flex: 0 1 auto;
+            align-self: auto;
+    
+            
+        }
+    
+        .content{
+            order: 0;
+            flex: 0 1 auto;
+            align-self: auto;
+        }
+    
+    
+            }
+    
+    
+        }
+    
+        .artista{
+            margin :20px;
+            width: 250px;
+            height: 300px;
+            overflow-y: scroll;
+            order: 0;
+            flex: 0 1 auto;
+            align-self: auto;
+    
+            
+            .item{
+    
+                display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        align-content: flex-start;
+        align-items: flex-start;
+        margin-top: 10px;
+        .ui avatar image{
+            order: 0;
+            flex: 0 1 auto;
+            align-self: auto;
+    
+            
+        }
+    
+        .content{
+            order: 0;
+            flex: 0 1 auto;
+            align-self: auto;
+        }
+    
+    
+            }
+        }
+    
+        .food{
+            margin :20px;
+            width: 250px;
+            height: 300px;
+            overflow-y: scroll;
+
+            order: 0;
+            flex: 0 1 auto;
+            align-self: auto;
+    
+            .item{
+    
+                display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        align-content: flex-start;
+        align-items: flex-start;
+        margin-top: 10px;
+        .ui avatar image{
+            order: 0;
+            flex: 0 1 auto;
+            align-self: auto;
+    
+            
+        }
+    
+        .content{
+            order: 0;
+            flex: 0 1 auto;
+            align-self: auto;
+        }
+    
+    
+            }
+        }
+    
+        .drink{
+            margin :20px;
+            width: 250px;
+            height: 300px;
+            overflow-y: scroll;
+            order: 0;
+            flex: 0 1 auto;
+            align-self: auto;
+    
+            .item{
+    
+                display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        align-content: flex-start;
+        align-items: flex-start;
+        margin-top: 10px;
+        .ui avatar image{
+            order: 0;
+            flex: 0 1 auto;
+            align-self: auto;
+    
+            
+        }
+    
+        .content{
+            order: 0;
+            flex: 0 1 auto;
+            align-self: auto;
+        }
+    
+    
+            }
+    
+        }
+    
+       
+    }
+    
+    
+    
+     }
+    
+     .parche{
+        order: 0;
+        flex: 0 1 auto;
+        align-self: auto;
+        height: 300px;
+        overflow-y: scroll;
+
+        width: 300px;
+          .item{
+    
+                display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        align-content: flex-start;
+        align-items: flex-start;
+        margin-top: 10px;
+        .ui avatar image{
+            order: 0;
+            flex: 0 1 auto;
+            align-self: auto;
+    
+            
+        }
+    
+        .content{
+            order: 0;
+            flex: 0 1 auto;
+            align-self: auto;
+        }
+    
+            
+    }
+       
+    
+     }
+
+}
+
+
+
+
+}
